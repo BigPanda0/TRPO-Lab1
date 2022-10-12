@@ -1,2 +1,3 @@
 One commit in branch master
 Two commit at branch master
+Three commit at branch master
